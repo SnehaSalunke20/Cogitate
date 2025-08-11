@@ -1,0 +1,121 @@
+     claim_id  risk_score                                                       anomaly_reasons
+32        133       50.00  Extensive History, Outlier, Recent Claim Spike, High Claim Frequency
+63        164       42.86           Extensive History, Recent Claim Spike, High Claim Frequency
+115       216       32.14                                 Extensive History, Recent Claim Spike
+7         108       32.14                                 Extensive History, Recent Claim Spike
+45        146       32.14                                 Extensive History, Recent Claim Spike
+36        137       32.14                                 Extensive History, Recent Claim Spike
+31        132       32.14                                 Extensive History, Recent Claim Spike
+53        154       32.14                                 Extensive History, Recent Claim Spike
+99        200       32.14                                 Extensive History, Recent Claim Spike
+55        156       28.57                              Recent Claim Spike, High Claim Frequency
+28        129       28.57                              Recent Claim Spike, High Claim Frequency
+65        166       25.00                               Extensive History, High Claim Frequency
+26        127       25.00                               Extensive History, High Claim Frequency
+46        147       25.00                               Extensive History, High Claim Frequency
+89        190       25.00                               Extensive History, High Claim Frequency
+59        160       17.86                                                    Recent Claim Spike
+2         103       17.86                                                    Recent Claim Spike
+18        119       17.86                                                    Recent Claim Spike
+82        183       17.86                                                    Recent Claim Spike
+9         110       17.86                                                    Recent Claim Spike
+67        168       17.86                                                    Recent Claim Spike
+75        176       17.86                                                    Recent Claim Spike
+88        189       14.29                                                     Extensive History
+74        175       14.29                                                     Extensive History
+34        135       14.29                                                     Extensive History
+100       201       10.71                                                  High Claim Frequency
+87        188       10.71                                                  High Claim Frequency
+80        181       10.71                                                  High Claim Frequency
+37        138       10.71                                                  High Claim Frequency
+54        155       10.71                                                  High Claim Frequency
+11        112       10.71                                                  High Claim Frequency
+35        136       10.71                                                  High Claim Frequency
+27        128       10.71                                                  High Claim Frequency
+77        178       10.71                                                  High Claim Frequency
+73        174       10.71                                                  High Claim Frequency
+57        158       10.71                                                  High Claim Frequency
+70        171       10.71                                                  High Claim Frequency
+69        170       10.71                                                  High Claim Frequency
+22        123       10.71                                                  High Claim Frequency
+17        118       10.71                                                  High Claim Frequency
+29        130       10.71                                                  High Claim Frequency
+20        121       10.71                                                  High Claim Frequency
+112       213       10.71                                                  High Claim Frequency
+94        195       10.71                                                  High Claim Frequency
+78        179       10.71                                                  High Claim Frequency
+42        143       10.71                                                  High Claim Frequency
+71        172       10.71                                                  High Claim Frequency
+116       217       10.71                                                  High Claim Frequency
+83        184       10.71                                                  High Claim Frequency
+61        162        7.14                                                               Outlier
+1         102        0.00                                                     No Specific Flags
+30        131        0.00                                                     No Specific Flags
+48        149        0.00                                                     No Specific Flags
+43        144        0.00                                                     No Specific Flags
+118       219        0.00                                                     No Specific Flags
+15        116        0.00                                                     No Specific Flags
+19        120        0.00                                                     No Specific Flags
+91        192        0.00                                                     No Specific Flags
+14        115        0.00                                                     No Specific Flags
+51        152        0.00                                                     No Specific Flags
+119       220        0.00                                                     No Specific Flags
+41        142        0.00                                                     No Specific Flags
+109       210        0.00                                                     No Specific Flags
+33        134        0.00                                                     No Specific Flags
+102       203        0.00                                                     No Specific Flags
+79        180        0.00                                                     No Specific Flags
+12        113        0.00                                                     No Specific Flags
+6         107        0.00                                                     No Specific Flags
+68        169        0.00                                                     No Specific Flags
+49        150        0.00                                                     No Specific Flags
+56        157        0.00                                                     No Specific Flags
+90        191        0.00                                                     No Specific Flags
+5         106        0.00                                                     No Specific Flags
+39        140        0.00                                                     No Specific Flags
+13        114        0.00                                                     No Specific Flags
+84        185        0.00                                                     No Specific Flags
+66        167        0.00                                                     No Specific Flags
+93        194        0.00                                                     No Specific Flags
+81        182        0.00                                                     No Specific Flags
+86        187        0.00                                                     No Specific Flags
+40        141        0.00                                                     No Specific Flags
+23        124        0.00                                                     No Specific Flags
+50        151        0.00                                                     No Specific Flags
+103       204        0.00                                                     No Specific Flags
+107       208        0.00                                                     No Specific Flags
+62        163        0.00                                                     No Specific Flags
+47        148        0.00                                                     No Specific Flags
+96        197        0.00                                                     No Specific Flags
+113       214        0.00                                                     No Specific Flags
+4         105        0.00                                                     No Specific Flags
+92        193        0.00                                                     No Specific Flags
+95        196        0.00                                                     No Specific Flags
+106       207        0.00                                                     No Specific Flags
+24        125        0.00                                                     No Specific Flags
+72        173        0.00                                                     No Specific Flags
+16        117        0.00                                                     No Specific Flags
+76        177        0.00                                                     No Specific Flags
+97        198        0.00                                                     No Specific Flags
+58        159        0.00                                                     No Specific Flags
+98        199        0.00                                                     No Specific Flags
+85        186        0.00                                                     No Specific Flags
+111       212        0.00                                                     No Specific Flags
+114       215        0.00                                                     No Specific Flags
+117       218        0.00                                                     No Specific Flags
+0         101        0.00                                                     No Specific Flags
+44        145        0.00                                                     No Specific Flags
+52        153        0.00                                                     No Specific Flags
+38        139        0.00                                                     No Specific Flags
+105       206        0.00                                                     No Specific Flags
+108       209        0.00                                                     No Specific Flags
+25        126        0.00                                                     No Specific Flags
+3         104        0.00                                                     No Specific Flags
+8         109        0.00                                                     No Specific Flags
+64        165        0.00                                                     No Specific Flags
+110       211        0.00                                                     No Specific Flags
+10        111        0.00                                                     No Specific Flags
+21        122        0.00                                                     No Specific Flags
+104       205        0.00                                                     No Specific Flags
+60        161        0.00                                                     No Specific Flags
+101       202        0.00                                                     No Specific Flags
